@@ -1,4 +1,7 @@
-### Hi there 👋
+###
+![Ep-lxs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ep-lxs&show_icons=true&theme=gotham)
+\
+![](https://komarev.com/ghpvc/?username=Ep-lxs&color=blue)
 
 <!--
 **Ep-lxs/Ep-lxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
